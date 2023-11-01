@@ -3,7 +3,7 @@ https://correkt.ai
 
 https://gauchocourses.datascienceucsb.org/#/
 
-https://watershed-brigade.herokuapp.com/stats
+https://watershed-brigade.herokuapp.com/stats <br>
 https://www.sbck.org/brigade/ (Scroll down to see migrated version of map)
 
 https://sbhs-platform.herokuapp.com (Demo Version)
