@@ -13,12 +13,14 @@ https://huggingface.co/spaces/Noah-Wang/eva02-ai-art-detector
 https://gauchocourses.datascienceucsb.org/#/
 <img width="720" alt="Screenshot 2024-11-23 at 2 12 04 PM" src="https://github.com/user-attachments/assets/4d46e7f4-48ca-454e-a24a-b2e26cbecc99">
 
+### SB Hacks:
+https://sbhacks.com/
+<img width="720" alt="Screenshot 2024-11-23 at 2 56 11 PM" src="https://github.com/user-attachments/assets/19b5a4eb-584f-49b6-9af3-125244e006b4">
 
 ### SB Channelkeeper:
 https://watershed-brigade.herokuapp.com/stats <br>
 https://www.sbck.org/brigade/ (New map)
 <img width="720" alt="Screenshot 2024-11-17 at 12 31 19 AM" src="https://github.com/user-attachments/assets/958adc17-54be-4f9d-8523-d9cb052dec15">
-
 
 ### Student Platform:
 https://sbhs-platform.herokuapp.com (Demo Version)
