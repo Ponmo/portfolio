@@ -16,6 +16,13 @@ Description: A transformer (eva-02) based model for detecting AI art. If it dete
 
 <img width="720" alt="Screenshot 2024-11-23 at 2 10 35 PM" src="https://github.com/user-attachments/assets/e368729d-54ca-483a-84d5-ab272888bf15">
 
+### SB Hacks:
+Link: https://sbhacks.com/
+
+Description: SB Hack's yearly website made with Next.js, React, Typescript, Cloudinary, and Firebase. The website to sign up for the mailing list, as well as apply to the hackathon with a vetting admin page to review resumes, short answers, etc.
+
+<img width="720" alt="Screenshot 2024-11-23 at 2 56 11 PM" src="https://github.com/user-attachments/assets/19b5a4eb-584f-49b6-9af3-125244e006b4">
+
 ### GauchoCourses:
 Link: https://gauchocourses.datascienceucsb.org/#/
 
@@ -24,13 +31,6 @@ Github: https://github.com/data-science-ucsb/gauchocourses
 Description: A course-scheduling app for UCSB undergraduate and graduate students. Provides an easy way to explore classes for the next quarter, customize and export the schedule with different colors and custom events, etc. and allows saving the schedule if logged in. The fastest, most used app at UCSB for finding the best classes to take next quarter.
 
 <img width="720" alt="Screenshot 2024-11-23 at 2 12 04 PM" src="https://github.com/user-attachments/assets/4d46e7f4-48ca-454e-a24a-b2e26cbecc99">
-
-### SB Hacks:
-Link: https://sbhacks.com/
-
-Description: SB Hack's yearly website made with Next.js, React, Typescript, Cloudinary, and Firebase. The website to sign up for the mailing list, as well as apply to the hackathon with a vetting admin page to review resumes, short answers, etc.
-
-<img width="720" alt="Screenshot 2024-11-23 at 2 56 11 PM" src="https://github.com/user-attachments/assets/19b5a4eb-584f-49b6-9af3-125244e006b4">
 
 ### SB Channelkeeper: 
 Link: https://watershed-brigade.herokuapp.com/stats (Cold start)
