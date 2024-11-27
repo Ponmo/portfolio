@@ -3,7 +3,7 @@
 ### Ribbits:
 Link: https://ribbits.ai
 
-Description: An AI search engine, with the ability to upload and edit text-based or code files, vision, cite its sources, generate bibliography citations, and filter results.
+Description: An AI search engine, with the ability to upload and edit text-based or code files, vision, cite its sources, generate bibliography citations, and filter results. Has drag-drop libraries, markdown, folder systems, file systems, etc.
 
 <img width="720" alt="Screenshot 2024-11-26 at 10 32 41 PM" src="https://github.com/user-attachments/assets/6ee08910-dcfe-4cc5-a7a8-a7b5fddbf5fb">
 
