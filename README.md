@@ -1,4 +1,4 @@
-# Noah Wang - Public Portfolio Links
+# Noah Wang - Public Portfolio Links 
 
 ### Ribbits:
 Link: https://ribbits.ai
@@ -60,3 +60,5 @@ Github: https://github.com/Ponmo/ibm-offshore-wind-farms
 Description: Developed for IBM's hackathon with the Betz power equation for planning offshore wind farms. Scraped bathymetric data and wind data from government sites. Trained a regression model with IBM to estimate the future power usage of every county in Florida, so that the number and specifications of offshore wind farms (hub height, distance, where its feasible/allowed to be built), can be developed accordingly. Also has IBM Watson as a chatbot for more information!
 
 <img width="720" alt="Screenshot 2024-11-17 at 12 34 25 AM" src="https://github.com/user-attachments/assets/da7e41a2-23f9-438f-ab51-b783d82d3ad7">
+
+
