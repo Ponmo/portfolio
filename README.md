@@ -39,7 +39,7 @@ Link on SBCK's website: https://www.sbck.org/brigade/ (New map)
 
 Github: https://github.com/Ponmo/SBChannelkeeperAnalytics
 
-Description: Volunteered to develop aggregated, automated, and live statistics, charts, and GIS based on Santa Barbara Channelkeeper's watershed brigade database. Did so over the summer to improve volunteering as part of the brigade in cleaning up beaches, trails, and much more for well over 250 hours. Won the Congressional App Challenge and talked with the local news station and the county's House Representative to shine light on the cause.
+Description: Volunteered to develop aggregated, automated, and live statistics, charts, and GIS based on Santa Barbara Channelkeeper's watershed brigade database. Did so over the summer to improve volunteering as part of the brigade in cleaning up beaches, trails, and much more for >250 hours. Won the Congressional App Challenge and talked with the local news station and the county's House Representative to shine light on the cause.
 
 <img width="720" alt="Screenshot 2024-11-17 at 12 31 19 AM" src="https://github.com/user-attachments/assets/958adc17-54be-4f9d-8523-d9cb052dec15">
 
