@@ -9,7 +9,7 @@ Link: https://na.whalesafe.com/
 ### Ribbits:
 Link: https://ribbits.ai
 
-Description: An AI search engine, with the ability to upload and edit text-based or code files, vision, cite its sources, generate bibliography citations, and filter results. Has drag-drop libraries, markdown, folder systems, file systems, remove a source from an answer, etc.
+Description: An AI search engine, with the ability to upload and edit text-based or code files, vision, cite its sources, generate bibliography citations, and filter results. Has drag-drop libraries, markdown, folder systems, file upload mechanisms and storage, vectorDB-powered message search, remove a source from an answer, etc.
 
 <img width="720" alt="Screenshot 2024-11-26 at 10 32 41 PM" src="https://github.com/user-attachments/assets/6ee08910-dcfe-4cc5-a7a8-a7b5fddbf5fb">
 
@@ -45,7 +45,7 @@ Link on SBCK's website: https://www.sbck.org/brigade/ (New map)
 
 Github: https://github.com/Ponmo/SBChannelkeeperAnalytics
 
-Description: Volunteered to develop aggregated, automated, and live statistics, charts, and GIS based on Santa Barbara Channelkeeper's watershed brigade database. Did so over the summer to improve volunteering as part of the brigade in cleaning up beaches, trails, and much more for >250 hours. Won the Congressional App Challenge and talked with the local news station and the county's House Representative to shine light on the cause.
+Description: Developed aggregated, automated, and live statistics, charts, and GIS based on Santa Barbara Channelkeeper's watershed brigade database. I did this over the summer while also volunteering for their Watershed Brigade, cleaning up beaches, trails, and much more to accumulate >500 volunteer hours. I was interviewed by several local news stations, including KEYT with John Palminteri. This website won the Congressional App Challenge and I received a Certificate of Special Congressional Recognition in a meeting with State Representative Salud Carbajal.
 
 <img width="720" alt="Screenshot 2024-11-17 at 12 31 19 AM" src="https://github.com/user-attachments/assets/958adc17-54be-4f9d-8523-d9cb052dec15">
 
@@ -54,7 +54,7 @@ Link: https://sbhs-platform.herokuapp.com (Cold start, demo version)
 
 Github: https://github.com/Ponmo/sbhs-student-platform
 
-Description: A Discord/Slack-like clone with websockets targeted towards school districts (each school email domain has their own space). Has an admin page for viewing user reports and moderating servers, allows users to create their own servers with invite-only or open-access, shows who's currently typing in a chat in real-time, has markdown formatting, allows admin of servers to send emails to entire server or to specific members, and has multiple themes.
+Description: A Discord/Slack-like clone built almost entirely with websockets targeted towards school districts. An admin page allows viewing reported messages, vetting new servers, and banning/promoting users. Students are able to create their own servers, invite-only or open-access, with different color themes and permissions. Real-time functionalities include showing who's currently typing in a chat, creation/deletion/reordering of channels and categories, markdown formatting. A special channel is dedicated for admins of servers to send emails to all/select members.
 
 <img width="720" alt="Screenshot 2024-11-16 at 11 25 26 PM" src="https://github.com/user-attachments/assets/55d96df0-362d-4210-83fc-2a55d163da3f">
 
