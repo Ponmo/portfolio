@@ -31,7 +31,7 @@ Description: SB Hack's yearly website made with Next.js, React, Typescript, Clou
 
 ### Correkt Chrome Extension 
 
-Description: A Chrome Extension and web application with a Django backend dedicated to summarizing pdfs, webpages, youtube videos and links on Google Search as a productivity tool. Allows selection of text to "fact check" it with sources, conversing with the summaries, and AI art detection. Also allowed users to create threads that prompt AI every X hours and depending on a user-set semantic condition, send an SMS or email notification (i.e. Search up price of X stock and send me a text message if it changed by more than Y% every 30 minutes). Had a couple hundred users, but is currently deprecated.
+Description: A Chrome Extension and web application with a Django backend dedicated to summarizing pdfs, webpages, youtube videos and links on Google Search as a productivity tool. Allows selection of text to "fact check" it with sources, conversing with the summaries, and AI art detection. Also allowed users to create threads that prompt AI every X hours and depending on a user-set semantic condition, send an SMS or email notification (i.e. Search up price of X stock and send me a text message if it changed by more than Y% every 30 minutes). Currently private on Chrome Store.
 
 https://github.com/user-attachments/assets/fc2fabd0-0d16-4ab8-b8cf-f2abef366d8e
 
